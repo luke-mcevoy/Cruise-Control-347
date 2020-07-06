@@ -1,0 +1,56 @@
+[10:39:18] Vehicle turned on.
+[10:39:20] Brake was applied.
+[10:39:20] Couldn't apply accelerator, brake is applied.
+[10:39:22] Could not enable cruise control, brake is applied.
+[10:39:23] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:23] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:23] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:23] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:23] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:24] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:24] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:25] Could not enable cruise control, brake is applied.
+[10:39:26] Couldn't apply accelerator, brake is applied.
+[10:39:29] Brake was released.
+[10:39:29] Accelerator was applied.
+[10:39:31] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:31] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:31] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:31] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:31] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:32] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:32] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:32] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:32] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:32] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:32] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:33] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:33] Could not enable cruise control, current speed (14.7 MPH) is less than the minimum of 15 MPH.
+[10:39:34] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:34] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:34] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:35] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:35] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:35] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:35] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:37] Accelerator was released.
+[10:39:37] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:38] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:39] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:39] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:39] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:39] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:39] Couldn't increase cruising speed, cruise control is not enabled.
+[10:39:44] Enabled cruise control, maintaining a speed of 23.3 MPH.
+[10:39:46] Accelerator was applied.
+[10:39:47] Accelerator was released.
+[10:39:49] Disabled cruise control for reason: application of brake
+[10:39:49] Brake was applied.
+[10:39:50] Brake was released.
+[10:39:53] Vehicle turned off.
